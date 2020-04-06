@@ -1,5 +1,5 @@
 class Dog 
-  let (:fido) {Dog.name}  
+  let (:name) {Dog.name}  
   
   
 def bark
