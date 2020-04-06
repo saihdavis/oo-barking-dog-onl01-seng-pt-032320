@@ -1,11 +1,8 @@
 class Dog 
   def name = (dog_name)
     @name = dog_name 
- attr_accessor :name 
-  
-  
+ end
 def bark
   puts "woof!"
   
-end
 end
