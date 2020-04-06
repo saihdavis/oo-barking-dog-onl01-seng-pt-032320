@@ -1,5 +1,5 @@
 class Dog 
-  fido = Dog.new 
+   let :fido = {Dog.new} 
   fido.name = "Fido"
   
   fido.name
