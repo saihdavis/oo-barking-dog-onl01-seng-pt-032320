@@ -1,5 +1,5 @@
 class Dog 
-  (:name) {Dog.name}  
+ attr_accessor :name 
   
   
 def bark
