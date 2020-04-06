@@ -2,7 +2,7 @@ class Dog
  attr_accessor :name 
   
   
-def ark
+def bark
   puts "woof!"
   
 end
