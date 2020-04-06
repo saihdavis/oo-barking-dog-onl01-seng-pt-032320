@@ -2,8 +2,8 @@ class Dog
    let :fido Dog.new  
   
   
-  fido.bark
-  woof!
+def bark
+  puts woof!
   
 end
 end
